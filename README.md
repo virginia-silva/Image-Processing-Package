@@ -3,7 +3,6 @@
 ### Aula: Coding Lab PRO - Digital Innovation One
 [(clique aqui para ver o meu perfil na plataforma)](https://web.digitalinnovation.one/users/henrique_map)
 #### Tecnologia: Python
-#### Data: 22/08/2020
 -----------------------------------------
 ### Descrição
 O pacote "image_processing-test" é usado para:
@@ -71,10 +70,9 @@ pip install image-processing-test
 from image-processing-test.processing import combination
 combination.find_difference(image1, image2)
 ```
-<img width="auto" src="https://github.com/henriqueotogami/image-processing-package/blob/master/image-processing-test.png?raw=true">
 
 ## Autor (quem hospedou o projeto no Test Pypi)
-Henrique Matheus Alves Pereira
+Virginia Lucia da Silva
 
 ## Licença
 [MIT](https://choosealicense.com/licenses/mit/)
